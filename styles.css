@@ -85,3 +85,17 @@ img {
   margin-top: 100px;
 
 }
+
+
+/* Responsive website */
+@media only screen and (max-width:768px) {
+  h1{
+    font-size: 4rem;
+  }
+  body{
+    background-position: center;
+  }
+  .footer{
+    font-size: 1.5rem;
+  }
+}
